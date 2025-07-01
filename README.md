@@ -79,8 +79,9 @@ This project is licensed under the MIT License — free and open for all.
 ---
 
 📦 **Android App Included**  حمل تطبيق الاندريد من هذا الرابط 
+https://top4top.io/downloadf-3469tcjes1-apk.html
 
-
+![qrcoder](https://github.com/user-attachments/assets/77b094f0-9f08-4f4a-95f6-0fe45eeb3db8)
 
 
 🕐 **Other platforms coming soon...**
