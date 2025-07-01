@@ -21,7 +21,7 @@ An ambitious and deeply thoughtful project to provide fully translated and intel
 
 ### Features
 
-- ✅ Over **11,000 Python files** with fully **Arabic-translated comments**.
+- ✅ Over Python files** with fully **Arabic-translated comments**.
 - 📘 Smart documentation written for real understanding, not just literal translation.
 - 📱 Android app included.
 - 🖥️ Upcoming desktop apps: 
@@ -56,7 +56,7 @@ This project is licensed under the MIT License — free and open for all.
 
 ### مميزات المشروع
 
-- ✅ أكثر من **11000 ملف Python** مشروح بالكامل بتعليقات عربية.
+- ✅كل الملفات تم تعربها بفضل اللع تعالى  Python** مشروح بالكامل بتعليقات عربية.
 - 📘 توثيق مكتوب بلغة عربية سليمة وسهلة الفهم.
 - 📱 تطبيق أندرويد مرفق.
 - 🖥️ تطبيقات .
